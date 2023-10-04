@@ -11,6 +11,11 @@ GH Repo link
 
 ### Attributions
 
+- Tony's daily code (various repos)
+- W3 Schools
+
+searched so many things but I recall hex to hsl converter
+
 In addition to the standard requirements, include the following in your README.md:
 
 -[] A helpful resource that helped you with this assignment;
