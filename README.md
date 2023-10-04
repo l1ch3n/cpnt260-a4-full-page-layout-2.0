@@ -4,7 +4,7 @@
 
 *By Nicole Shukin*
 
-GH Pages site link
+(GH Pages site link)[https://l1ch3n.github.io/cpnt260-a4-full-page-layout-2.0/]
 GH Repo link
 
  - incorporated an inline SVG image for your company logo (line 46 html & line 10 of main.css)
