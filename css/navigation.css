@@ -1,0 +1,37 @@
+
+/* Remove default styles from navigation lists */
+nav ul {
+  font-family: Noto Sans;
+  background-color: rgba(33, 175, 211, 0.685);
+  list-style: none;
+  margin: 0;
+}
+
+nav a {
+  display: block;
+  padding: 0.5rem;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+nav a:hover {
+  color: gold;
+  font-size: larger;
+}
+
+/* Allow content to touch the edges of the page */
+body {
+  margin: 0;
+}
+
+@media (width > 50em) {
+  body {
+    font-size: 1.5rem;;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+}

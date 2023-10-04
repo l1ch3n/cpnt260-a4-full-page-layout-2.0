@@ -7,6 +7,8 @@
 GH Pages site link
 GH Repo link
 
+ - incorporated an inline SVG image for your company logo (line 46 html & line 10 of main.css)
+
 ### Attributions
 
 In addition to the standard requirements, include the following in your README.md:
